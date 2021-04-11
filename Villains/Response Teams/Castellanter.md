@@ -9,9 +9,9 @@
 Loyal Asmodean cultist. Lives at Converted Windmill outpost with Arn Xalrondar.
 
 -  Seffia Naelryke **cult fanatic (cr2)**
-- 2 **spies (cr1)**
-- 1 **veteran (cr3)**
-- 1 **imp (cr1)**
+- 2x[spies (cr1)](https://www.dndbeyond.com/monsters/spy)
+- 1x[veteran (cr3)](https://www.dndbeyond.com/monsters/veteran)
+- 1x[imp (cr1)](https://www.dndbeyond.com/monsters/imp)
 
 #### Clue
 
@@ -27,5 +27,5 @@ Doppelganger, generally takes form of elderly tiefling valet. Most trusted lieut
 
 - Willfort Crowelle [doppelganger
     (cr3)](https://www.dndbeyond.com/monsters/doppelganger)
-- [Bearded devil (cr3)](https://www.dndbeyond.com/monsters/Bearded_devil)
+- 1x[Bearded devil (cr3)](https://www.dndbeyond.com/monsters/Bearded_devil)
 - 3x[cultists (cr1/8)](https://www.dndbeyond.com/monsters/cultists)

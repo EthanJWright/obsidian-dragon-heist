@@ -1,6 +1,6 @@
 ## General Structure
 
-- 1-2 [drow gunslingers (CR 4)](https://www.dndbeyond.com/monsters/drow_gunslingers)
+- 1-2x[drow gunslingers (CR 4)](https://www.dndbeyond.com/monsters/drow_gunslingers)
 - 4-8x[Drow (cr1/4)](https://www.dndbeyond.com/monsters/drow)
 
 ## Variables

@@ -32,10 +32,10 @@ Leader of small team of duergar. Sent when someone needs to be taught a lesson.
 
 If Gorath is taken out, Korgstrod is sent out from the Xanthar Sewer Hideout to send a strunger message.
 
-- Korg Uxgulm **duergar (cr1)**
-- 3 **duergar (cr1)**
-- **half-ogre (cr1)**
-- **gaxer (cr1/2)**
+- Korg Uxgulm [duergar (cr1)](https://www.dndbeyond.com/monsters/duergar)
+- 3x [duergar (cr1)](https://www.dndbeyond.com/monsters/duergar)
+- 1x[half-ogre (cr1)](https://www.dndbeyond.com/monsters/half_ogre)
+- 1x[gazer (cr1/2)](https://www.dndbeyond.com/monsters/gazer)
 
 
 ### Noska UrGray
@@ -44,4 +44,4 @@ Noska, a shield dwarf, is another of Xanthar's enforcers.
 
 - [Noska Ur'Gray (cr1/2)](https://www.dndbeyond.com/monsters/Noska_UrGray)
 - 6x[bugbears(cr1)](https://www.dndbeyond.com/monsters/bugbears)
-- [gazer(cr1/2)](https://www.dndbeyond.com/monsters/gazer)
+- 1x[gazer(cr1/2)](https://www.dndbeyond.com/monsters/gazer)

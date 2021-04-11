@@ -3,7 +3,7 @@
 All lieutenants carry pass-amulets to Kolat Towers, but will attempt to destroy them if it looks as if they are being captured. (Argorn, a feckless weasel, will attempt to barter it for his own life). If they're slain by the PCs, Sidra will give them to Kaevra.
 
 - 1 lieutenant ([[Vevette Blackwater]], [[Urstul Floxin]], [[Agorn Fuoco]])
-- 3-4 **thugs (cr1/2)**
+- 3-4 [thugs (cr1/2)](https://www.dndbeyond.com/monsters/thug)
 
 ### Clues
 

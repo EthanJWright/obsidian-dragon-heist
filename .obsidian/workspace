@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Trollskull Alley/Steam and Steel.md",
+            "file": "Villains/Alexandrian Villains.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Trollskull Alley/Steam and Steel.md",
+                "file": "Villains/Alexandrian Villains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,15 @@
   },
   "active": "516bcb8a481a9f63",
   "lastOpenFiles": [
-    "Locations/Trollskull Alley/Steam and Steel.md",
-    "Locations/Trollskull Alley/The Bent Nail.md",
-    "Chapters/Chapter 1.md"
+    "Villains/Alexandrian Villains.md",
+    "Factions/Alexandrian Factions.md",
+    "Overview.md",
+    "Villains/Castellanters.md",
+    "Villains/Response Teams/Castellanter.md",
+    "Factions/Lords Alliance.md",
+    "PC Info/Timmm.md",
+    "PC Info/Zuexine.md",
+    "PC Info/Tabnam.md",
+    "Factions/Emerald Enclave.md"
   ]
 }

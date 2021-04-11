@@ -2,7 +2,7 @@
 
 A large, heavyset man in his forties
 
-> A grim man with a scar down the left of his face. His oily black hair hangs in curls around his shoulders. He wears a boiled black leather jerkin. aaaaaaa
+> A grim man with a scar down the left of his face. His oily black hair hangs in curls around his shoulders. He wears a boiled black leather jerkin.
 
 ## Roleplaying
 
