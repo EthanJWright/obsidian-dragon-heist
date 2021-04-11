@@ -1,6 +1,6 @@
 ## Appearance
 
-> A beautiful young woman with fiery red hair what has two streaks of brilliant platinum. 
+> A beautiful young woman with fiery red hair that has two streaks of brilliant platinum. 
 
 ## Roleplaying
 

@@ -1,6 +1,6 @@
 ## Appearance
 
-> An older man with leathery skin and a few scars lining his face.
+> An large older man with leathery skin, graying hair, and a few scars lining his face.
 
 ## Roleplaying
 
