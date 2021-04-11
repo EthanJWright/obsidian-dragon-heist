@@ -2,7 +2,7 @@
 
 #### Response Teams and Outposts
 
- **Response Team: ** :  [[Castellanter]]
+ **Response Team: ** :  [[Castellanter Response Team]]
 
 #### Goal
 

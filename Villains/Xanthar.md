@@ -3,7 +3,7 @@
 
 #### Response Teams and Outposts
 
-**Response Team:** [[Xanthar]]
+**Response Team:** [[Xanthar Response Team]]
 
 #### Goal
 

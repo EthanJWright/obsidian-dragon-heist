@@ -2,7 +2,7 @@
 
 #### Response Teams and Outposts
 
-**Response Team:** [[Factions/Zhentarim]]
+**Response Team:** [[Zhentarim Response Team]]
 
 #### Goal
 

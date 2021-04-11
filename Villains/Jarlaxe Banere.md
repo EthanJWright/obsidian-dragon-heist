@@ -2,7 +2,7 @@
 
 #### Response Teams and Outposts
 
-**Response Team:** [[Bregan D'Aerthe]]
+**Response Team:** [[Bregan D'Aerthe Response Team]]
 
 #### Goal
 

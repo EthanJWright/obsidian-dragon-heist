@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "516bcb8a481a9f63",
+        "id": "1f87fe668b808a90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Villains/Alexandrian Villains.md",
+            "file": "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Fenerus Stormcastle's House.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Villains/Alexandrian Villains.md",
+                "file": "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Fenerus Stormcastle's House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "516bcb8a481a9f63",
+  "active": "1f87fe668b808a90",
   "lastOpenFiles": [
-    "Villains/Alexandrian Villains.md",
-    "Factions/Alexandrian Factions.md",
-    "Overview.md",
-    "Villains/Castellanters.md",
-    "Villains/Response Teams/Castellanter.md",
-    "Factions/Lords Alliance.md",
-    "PC Info/Timmm.md",
-    "PC Info/Zuexine.md",
-    "PC Info/Tabnam.md",
-    "Factions/Emerald Enclave.md"
+    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Fenerus Stormcastle's House.md",
+    "NPC RP Blocks/Other/Fenerus Stormcastle.md",
+    "NPC RP Blocks/Other/Untitled.md",
+    "NPC RP Blocks/Bregan D'Aerthe/Krebbyg.md",
+    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Untitled.md",
+    "Villains/Faction Outposts/Untitled 1.md",
+    "Villains/Faction Outposts/Untitled.md",
+    "Villains/Response Teams/Zhentarim.md",
+    "Villains/Response Teams/Xanthar.md",
+    "Villains/Response Teams/Castellanter.md"
   ]
 }
