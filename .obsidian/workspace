@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3594bb697fd2936b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Villains/Faction Outposts/Seven Masks Theater.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "dc43c8dc8be47f6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Chase/Theater Location.md",
+            "file": "Villains/Faction Outposts/Cassalanter Outposts/Asmodean Shrine.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Villains/Faction Outposts/Seven Masks Theater.md",
+                "file": "Villains/Faction Outposts/Cassalanter Outposts/Asmodean Shrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3594bb697fd2936b",
+  "active": "dc43c8dc8be47f6c",
   "lastOpenFiles": [
-    "Villains/Faction Outposts/Seven Masks Theater.md",
+    "Villains/Faction Outposts/Cassalanter Outposts/Asmodean Shrine.md",
+    "Documents/Assets/Symbol Of Asmodeus.png",
+    "Documents/Maps/Faction Outposts/Asmodean Shrine.jpg",
+    "Documents/Maps/Faction Outposts/Asmodean Shrine Replicated.jpg",
     "Locations/Chase/Theater Location.md",
+    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Seven Masks Theater.md",
+    "Documents/Maps/Chase/Theater.png",
+    "Villains/Faction Outposts/Seven Masks Theater.md",
     "NPC RP Blocks/Urchins/Urchin Overview.md",
-    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Fenerus Stormcastle's House.md",
-    "NPC RP Blocks/Bregan D'Aerthe/Krebbyg.md",
-    "NPC RP Blocks/Urchins/Squiddly.md",
-    "NPC RP Blocks/Urchins/Nat.md",
-    "NPC RP Blocks/Urchins/Jenks.md",
-    "NPC RP Blocks/Dalakhar.md",
-    "NPC RP Blocks/Zhentarim/Agorn Fuoco.md"
+    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Fenerus Stormcastle's House.md"
   ]
 }

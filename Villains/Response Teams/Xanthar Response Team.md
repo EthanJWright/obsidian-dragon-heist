@@ -42,6 +42,6 @@ If Gorath is taken out, Korgstrod is sent out from the Xanthar Sewer Hideout to 
 
 Noska, a shield dwarf, is another of Xanthar's enforcers.
 
-- [Noska Ur'Gray (cr1/2)](https://www.dndbeyond.com/monsters/Noska_UrGray)
+- [Noska Ur'Gray (cr1/2)](https://www.dndbeyond.com/monsters/Noska-UrGray)
 - 6x[bugbears(cr1)](https://www.dndbeyond.com/monsters/bugbears)
 - 1x[gazer(cr1/2)](https://www.dndbeyond.com/monsters/gazer)
