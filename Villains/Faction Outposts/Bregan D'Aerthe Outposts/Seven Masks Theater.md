@@ -1,7 +1,8 @@
 ## Location
 
+Dock Ward
 [[Theater Location]]
-[ Dragon Heist ](https://www.dndbeyond.com/sources/wdh/dragon-season#Encounter6Theater), p. 75 [[Theater.png]] (use Autumn)
+[Dragon Heist](https://www.dndbeyond.com/sources/wdh/dragon-season#TheaterAutumn), p. 75 [[Theater.png]] (use Autumn)
 
 ## Info
 
@@ -11,7 +12,7 @@ Use the description of the Autumn version of the theater from the original campa
 
 ### Malcolm Brizzenbright
 
-Ghost from [Winter Theater ](https://www.dndbeyond.com/sources/wdh/dragon-season#TheaterWinter)
+Ghost from [Winter Theater](https://www.dndbeyond.com/sources/wdh/dragon-season#TheaterWinter)
 
 - Knows "Rongquan Mystere" is a fake identity, anxious his theater is being used for nefarious purposes
 - Can identify dressing room as safe house
