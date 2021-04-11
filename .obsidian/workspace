@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "f0d427c882dded3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "516bcb8a481a9f63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Trollskull Alley/Steam and Steel.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fa5487a6296a28c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9348a2b5a9ffe7ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5488d7f1ab54ebc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b3ffb5cf24793c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d436d5146ba76247",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0090b08a2264e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425a47442d5b51f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Trollskull Alley/Steam and Steel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "516bcb8a481a9f63",
+  "lastOpenFiles": [
+    "Locations/Trollskull Alley/Steam and Steel.md",
+    "Locations/Trollskull Alley/The Bent Nail.md",
+    "Chapters/Chapter 1.md"
+  ]
+}
