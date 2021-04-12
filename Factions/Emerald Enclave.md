@@ -10,7 +10,7 @@ Visited by a white cat that speaks in a melodious male voice:
 - [[Timmm]]
 - [[Tabnam]]
 
-> Interested in joining the Emerald Enclave? Come meet us at Phaulonmere in the Southern Ward
+> Interested in joining the Emerald Enclave? Come meet us at [[Phaulkonmere]] in the Southern Ward
 
 Meet with *Melannor Fellbranch* - friendly but humorless groundskeeper. 
 

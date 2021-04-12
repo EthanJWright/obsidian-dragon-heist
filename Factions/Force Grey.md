@@ -4,12 +4,11 @@ Force Grey is allied to the Open Lord. If members of the Grey Hands or Force Gre
 
 ## Joining
 
-Basically anyone, training for private security force "Force Grey"
-
-Deploy last, anyone who hasn't shown interest in others
+Basically anyone, training for private security force "Force Grey". Requires loyalty to city.
 
 > I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends.
 
+The PCs can make their way to [[Blackstaff Tower]] to discuss options with [[Vajra Safahr]]
 
 ## Faction Missions
 
