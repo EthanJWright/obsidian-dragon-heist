@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/Force Grey.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "03ea045362908252",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPC RP Blocks/Factions/Vajra Safahr.md",
+            "file": "NPC RP Blocks/Chapter One/Renaer Neverember.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Force Grey.md",
+                "file": "NPC RP Blocks/Chapter One/Renaer Neverember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +88,11 @@
   },
   "active": "9ae7197022054a04",
   "lastOpenFiles": [
-    "Factions/Force Grey.md",
-    "Locations/Factions/Blackstaff Tower.md",
-    "NPC RP Blocks/Factions/Vajra Safahr.md",
-    "Documents/Assets/Vajra Safahr.jpg",
     "NPC RP Blocks/Chapter One/Renaer Neverember.md",
+    "Factions/Force Grey.md",
+    "NPC RP Blocks/Factions/Vajra Safahr.md",
+    "Locations/Factions/Blackstaff Tower.md",
+    "Documents/Assets/Vajra Safahr.jpg",
     "NPC RP Blocks/Urchins/Squiddly.md",
     "Chapters/Chapter 2.md",
     "NPC RP Blocks/Urchins/Jenks.md",

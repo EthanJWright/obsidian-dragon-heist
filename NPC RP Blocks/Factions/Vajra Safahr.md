@@ -6,7 +6,7 @@ Vajra Safahr, The Blackstaff
 
 [[Vajra Safahr.jpg]]
 
-> A surprisingly young woman, with an unruly tumble of black hair above piercing green eyes. She prefers practical clothes of a blackish-purplish hue, with a long coat covered in elven-inked designs.
+> A young black woman, with an unruly tumble of black hair above piercing green eyes. She prefers practical clothes of a blackish-purplish hue, with a long coat covered in elven-inked designs.
 
 ## Roleplaying
 
