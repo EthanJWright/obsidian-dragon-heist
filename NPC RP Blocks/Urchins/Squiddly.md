@@ -4,7 +4,7 @@ Squiddly
 
 ## Appearance
 
-> A slim tiefling boy with an eyepatch, a bow, and a quiver of toy arrows.
+> A slim tiefling boy with dark red skin and messy brown hair. He wears an eyepatch, a bow, and a quiver of toy arrows.
 
 ## Roleplaying
 
