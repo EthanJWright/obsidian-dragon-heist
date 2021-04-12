@@ -27,3 +27,7 @@ Flaming red skin with fiery red hair that writhes under extreme emotion. Eyes fl
 - Neutral Good
 - Racial Traits: Cast produce flame at will (Constitution spellcasting ability, +4 bonus to hit with spells). Darkvision 60 ft. Resistance to fire.
 - Languages: Common, Primordial
+
+## Quests
+
+[[Steel and Wood]]

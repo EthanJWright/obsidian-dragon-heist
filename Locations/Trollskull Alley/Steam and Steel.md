@@ -26,3 +26,7 @@ Married pair of genasi
 ## For Sale
 
 - normal cost: all metal, weapons, and armor shields in  [the player handbook](https://www.dndbeyond.com/sources/phb/equipment#ArmorandShields)
+
+## Quests
+
+[[Steel and Wood]]

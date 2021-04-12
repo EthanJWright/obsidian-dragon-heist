@@ -1,3 +1,7 @@
+## Name
+
+Avi
+
 ## Appearance
 
 Blue skin with beads of moisture twinkling upon it, with large, blue-black eyes. Smells of fresh rain. His blue hair floats freely, swaying and waving as if underwater. Wears miniature, animate waterfall (holy symbol of Eldath).
@@ -23,3 +27,7 @@ Blue skin with beads of moisture twinkling upon it, with large, blue-black eyes.
 - Neutral Good
 - Racial Traits: Cast produce flame at will (Constitution spellcasting ability, +4 bonus to hit with spells). Darkvision 60 ft. Resistance to fire.
 - Languages: Common, Primordial
+
+## Quests
+
+[[Steel and Wood]]

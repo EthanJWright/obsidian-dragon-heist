@@ -41,9 +41,11 @@ Xanthar has the stone, [[Dalakhar]] is infiltrating his base.
 
 ### Fine Friends
 
-Volo, Floon, [[Renaer]] all all allies now.
+Volo, Floon, [[Renaer Neverember]] all all allies now.
 
 Volo can show around to unique places in city.
+
+****
 
 ## First Time At [[Trollskull Manor]]
 
@@ -51,9 +53,18 @@ Three Urchins [[Urchin Overview]] are playing inside.
 
 They are rampaging playing a fencing/tag game with swords.
 
+### Approach door
+
+> On the other side of the door you hear a sharp snap, and a child shouts "I'm dead, I'm dead, you've killed me!" followed by an anguished scream. You hear movement and shuffling from within.
+
+### On entrance
+
+> Stepping inside, the scent of pungent mildew and sour beer hits your nostrils immediately. The large taproom is furnished with several broken tables and chairs and an L-shaped bar. An old dusty hearth inhabits the north side of the room. Black ash has spilled from the hearth and small black vermin footprints are scattered around the floor. You see a small skinny boy with dark red skin and messy brown hair. He is sprawled across the ground with his tongue hanging out of his mouth and his eyes closed. Standing on the bar is a lanky young girl with a wooden sword pointed towards the door, a bold look on her face. She has oily black hair and wears blue boots. Peering out from behind a table you see a portly young buy with dusty skin and a shaved head. He wears a yellow cloak and clutches a stuffed owlbear. His wide eyes dart around the room.
+
+
 ### The Tale of the Troll Skull
 
-They claim the mansion is haunetd by the ghost of a troll skull.
+They claim the mansion is haunted by the ghost of a troll skull.
 
 ### During reconstruction:
 
@@ -79,6 +90,10 @@ Fixing the building up to become a tavern slowly wins Lif over. (Eventually star
 ## Guild Visits
 
 In place of the one-time expenses found on p. 41 of Dragon Heist, the PCs will be approached by an endless array of guild representatives. Roleplay out as many of these encounters as seems entertaining. Not all of these guild services are required, and others can be negotiated.
+
+### [[Introduction to Guilds]]
+
+Run day after PCs settle in.
 
 ****
 
@@ -136,6 +151,11 @@ The PCs will also need to hire staff: A bartender, barmaids, and cooks. How many
 ## [[Faction Overview]]
 
 PCs should be engaged by factions through out this Chapter. Several of the first quests should be accepted and ran during this chapter.
+
+## Exploring the Alley
+
+- Players can wander about the alley and meet their neighbors [[Trollskull Alley Overview]]
+- 
 
 ## Grand Opening
 

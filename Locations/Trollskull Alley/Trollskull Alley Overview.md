@@ -8,7 +8,7 @@ The locations described below are keyed to the [[map of Trollskull Alley.png]]. 
 
 | Code | Location                 | NPC(s)                      |
 | :--- | :---                     | :---                        |
-| T1   | [[Trollskull Manor]]     | NPC Home                    |
+| T1   | [[Trollskull Manor]]     | PC Home                    |
 | T2   | [[The Bent Nail]]        | [[Tally Fellbranch]]        |
 | T3   | [[Steam and Steel]]      | [[Embric]],[[Avi]]          |
 | T4   | [[Corellon's Crown]]     | [[Fala Leflaiir]]           |
