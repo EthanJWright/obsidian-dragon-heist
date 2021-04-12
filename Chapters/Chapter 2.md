@@ -82,6 +82,26 @@ In place of the one-time expenses found on p. 41 of Dragon Heist, the PCs will b
 
 ****
 
+Simplified price list
+
+| Item                                    | Cost   |
+| :---                                    | :---   |
+| Roof Repair                             | 200 gp |
+| Brick Repair                            | 45 gp  |
+| Water Damage                            | 325 gp |
+| Broken Windows                          | 50 gp  |
+| Replace Furniture                       | 550gp  |
+| Replace Kitchen Hearth                  | 100 gp |
+| Purchase Brewing Equipment              | 50 gp  |
+| Mugs, Plates, Pots, Pans, kitchen stuff | 30 gp  |
+| Cleaning and Servicing the Chimneys     | 5 gp   |
+| Fix Lighting                            | 25 gp  |
+| Fix Plumbing                            | 80 gp  |
+| Fix the balcony railings                | 20 gp  |
+| Replace Sign                            | 15 gp  |
+
+****
+
 | Repairs                                                                      | Cost   |
 | :---                                                                         | :---   |
 | Carpenters’, Roofers’ and Plasterer’s Guild (Soukaev, repair roof and walls) | 250 gp |

@@ -87,11 +87,6 @@ Xanthar has the stone
 >transfer of ownership. I’ll arrange a meeting with one after you’ve
 >inspected the estate and deemed it satisfactory.
 
-- Volo pulls out tube containing deed to Trollskull Manor, a historic building in North Ward
-- He bought the property to use as research for an upcoming book *Volo's Guide to Spirits and Specters*
-- sets up meeting with tiefling magistrate named Kylynne Silmerhelve
-- Deed meeting is at courthouse in Castle Ward at highsun. Collects estate tax of 25gp
-- Renaer or Volo can help
 
 [[Deed-Trollskull.pdf]]
 
