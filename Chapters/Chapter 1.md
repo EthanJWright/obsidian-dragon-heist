@@ -1,3 +1,33 @@
+# General Info
+
+## Chapter Dynamic
+
+- Zhentarim agents snatch Renaer Neverember and his friend Floon Blagmaar.
+- While questioning Renaer in Area Z5, they realize that the Eye is in the mourning locket and take the locket from Renaer.
+- Renaer is hauled back down to Area Z2 and tied up next to Floon. Upstairs, the Zhentarim break open the locket (it can still be found in Area Z5), remove the Eye, and give it to a courier to carry to Manshoon.
+- Floon is then hauled upstairs for questioning (the Zhentarim want to see if he might be worth a ransom).
+- Xanathar’s agents storm the warehouse. They immediately find “the prisoner” (i.e., Floon), assume he’s Renaer, and several of their agents hustle him out to their sewer hideout. Meanwhile, Renaer takes advantage of the confusion downstairs to slip his bonds and hide in Area Z2.
+- Xanathar’s agents do a perfunctory sweep of the warehouse and then take off, leaving the kenku behind to kill any Zhents who show up.
+
+
+
+## Location of Stone and Eyes
+
+Manshoon has lost his Eye to Xanthar after a failed alliance. Xanthar has one
+eye and the stone.
+
+### Stone of Golor
+
+Xanthar has the stone
+
+### Eyes
+
+- Xanthar has one eye
+- Castellanters have one eye
+- Renaer has one eye
+
+# Areas
+
 ## Xanthar Hideout
 
 ### NPC Roster

@@ -6,13 +6,17 @@ Squiddly
 
 > A slim tiefling boy with an eyepatch, a bow, and a quiver of toy arrows.
 
+## Roleplaying
+
+- Rarely thinks before he talks or acts
+
 ## Stats
 
 Squiddly AC = 11 HP = 6
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 0 | +1 | 0 | 0 |  0 | +1 |
+| 0   | +1  | 0   | 0   | 0   | +1  |
 
 **Wooden sword:** +3 to hit. 1d4+1 bludgeoning damage.
 

@@ -4,15 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "dc43c8dc8be47f6c",
+        "id": "9ae7197022054a04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Seven Masks Theater.md",
+            "file": "Chapters/Chapter 2.md",
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "595df38819c6d2a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Factions/Emerald Enclave.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "b5b0b4f348fa725f",
+        "type": "split",
+        "children": [
+          {
+            "id": "8a3014019db18d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC RP Blocks/Urchins/Nat.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "3198a8f1220579ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC RP Blocks/Urchins/Squiddly.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "1626d491818f1d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC RP Blocks/Urchins/Jenks.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Seven Masks Theater.md",
+                "file": "Factions/Emerald Enclave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc43c8dc8be47f6c",
+  "active": "595df38819c6d2a8",
   "lastOpenFiles": [
-    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Seven Masks Theater.md",
-    "Villains/Faction Outposts/Cassalanter Outposts/Asmodean Shrine.md",
-    "Documents/Assets/Symbol Of Asmodeus.png",
-    "Documents/Maps/Faction Outposts/Asmodean Shrine.jpg",
-    "Documents/Maps/Faction Outposts/Asmodean Shrine Replicated.jpg",
-    "Locations/Chase/Theater Location.md",
-    "Documents/Maps/Chase/Theater.png",
-    "Villains/Faction Outposts/Seven Masks Theater.md",
+    "Factions/Emerald Enclave.md",
+    "PC Info/Timmm.md",
     "NPC RP Blocks/Urchins/Urchin Overview.md",
-    "Villains/Faction Outposts/Bregan D'Aerthe Outposts/Fenerus Stormcastle's House.md"
+    "NPC RP Blocks/Urchins/Jenks.md",
+    "NPC RP Blocks/Urchins/Squiddly.md",
+    "NPC RP Blocks/Urchins/Nat.md",
+    "Chapters/Chapter 2.md",
+    "Locations/Trollskull Alley/Trollskull Manor.md",
+    "Chapters/Chapter 1.md",
+    "Documents/Deed-Trollskull.pdf"
   ]
 }

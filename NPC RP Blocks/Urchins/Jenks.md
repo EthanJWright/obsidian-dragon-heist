@@ -6,6 +6,11 @@ Jenks
 
 > A portly young boy with dusty skin and a shaved head. He wears a long yellow cloak and clutches a stuffed owlbear.
 
+## Roleplaying
+
+- Shy around strangers
+- Brave when it comes to helping friends
+
 ## Stats
 
 Jenks AC = 10 HP = 8

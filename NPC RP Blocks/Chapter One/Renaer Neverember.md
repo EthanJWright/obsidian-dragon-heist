@@ -29,11 +29,11 @@ Renaer Neverember
 - Mother is Lady Aletha Brandath
 
 
-## Knowledge
+## Key Info
 
-- thinks floon was kidnapped in his place
-- Zhentarim were asking about missing half million dragons that his father has
-- Stole the his ivory mourning locket
+- Can set up meetings with [Mirt, Remallia Haventree](https://www.dndbeyond.com/compendium/adventures/wdh/monsters-and-npcs), or essentially any other noble.
+- Had an eye in his Mother's ivory mourning locket at one point, didn't know it was there until the Zhentarim took it.
+- Owns many properties in Waterdeep, can provide information on interacting with the guilds and keeping a business up to code
 
 ## Stats
 
