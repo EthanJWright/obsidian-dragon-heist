@@ -135,12 +135,12 @@ Simplified price list
 
 ****
 
-| Suppliers                                                              | Cost              |
-| :---                                                                   | :---              |
-| Fellowship of Innkeepers [Broxley Fairkettle, p. 41](https://www.dndbeyond.com/sources/wdh/trollskull-alley#BroxleyFairkettle)                   | 25-100 gp         |
-| Vintners’, Distillers’, and Brewers’ [Hammond Kraddoc, p. 41](https://www.dndbeyond.com/sources/wdh/trollskull-alley#HammondKraddoc)          | 50-1000 gp        |
+| Suppliers                                                                                                                                  | Cost              |
+| :---                                                                                                                                       | :---              |
+| [[Fellowship of Innkeepers]] [Broxley Fairkettle, p. 41](https://www.dndbeyond.com/sources/wdh/trollskull-alley#BroxleyFairkettle)             | 25-100 gp         |
+| [[Vintners’, Distillers’, and Brewers’]]   [[Hammond Kradoc]]                                                                                  | 50-1000 gp        |
 | Guild of Butchers [Justyn Rassk, p. 41 – threatens them without bribe](https://www.dndbeyond.com/sources/wdh/trollskull-alley#JustynRassk) | 3 gp per delivery |
-| Bakers' Guild                                                          | 25-100 gp         |
+| Bakers' Guild                                                                                                                              | 25-100 gp         |
 
 During this time, also mix in the first visits from [[Emmek Frewn]] - [DH Info](https://www.dndbeyond.com/sources/wdh/trollskull-alley#BusinessRivalEmmekFrewn) as he begins plotting against the PCs.
 

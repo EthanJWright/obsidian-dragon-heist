@@ -15,31 +15,15 @@
         }
       },
       {
-        "id": "ed023b195f8ae922",
-        "type": "split",
-        "children": [
-          {
-            "id": "451f6bbf3149a081",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Documents/Maps/map of Trollskull Alley.png"
-              }
-            }
-          },
-          {
-            "id": "e9defc8a33364b9f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Documents/Maps/Trollskull Manor.png"
-              }
-            }
+        "id": "6a0c71bb27f1c864",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guilds/Vintners', Distillers', and Brewers' Guild.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter 2.md",
+                "file": "Guilds/Vintners', Distillers', and Brewers' Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ae7197022054a04",
+  "active": "6a0c71bb27f1c864",
   "lastOpenFiles": [
-    "Chapters/Chapter 2.md",
+    "Untitled.md",
     "Chapters/Chapter Events/Introduction to Guilds.md",
+    "Chapters/Chapter 2.md",
     "Locations/Trollskull Alley/Trollskull Manor.md",
+    "Documents/Maps/Trollskull Manor.png",
     "Quests/Reddit/Talking Doll.md",
     "Documents/Reference/Trollskull Manor History.md",
     "Quests/Reddit/Untitled.md",
     "Locations/Trollskull Alley/Trollskull Alley Overview.md",
-    "Documents/Maps/map of Trollskull Alley.png",
-    "Documents/Maps/Trollskull Manor.png",
-    "Quests/Chapter 2 Resources/Steel and Wood.md"
+    "Documents/Maps/map of Trollskull Alley.png"
   ]
 }

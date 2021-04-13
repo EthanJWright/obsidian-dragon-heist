@@ -8,6 +8,10 @@ The Fellowship of Innkeepers was one of the oldest guilds of Waterdeep. The coll
 
 [[Broxley Fairkettle]]
 
+## Location
+
+Fellowship Hall
+
 ## Activities
 
 Collectively bargained deals for all products used, the following products may be acquired from this guild.
